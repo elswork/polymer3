@@ -13,6 +13,6 @@
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@webcomponents/shadycss/-/shadycss-1.1.1.tgz#abc821961c99a2b1c5e0f225cd01b139899ebc4c"
 
-"@webcomponents/webcomponentsjs@1.0.22", "@webcomponents/webcomponentsjs@^1.0.0", "@webcomponents/webcomponentsjs@^1.0.22":
+"@webcomponents/webcomponentsjs@1.0.22", "@webcomponents/webcomponentsjs@^1.0.0", "@webcomponents/webcomponentsjs@^1.3.3":
   version "1.0.22"
   resolved "https://registry.yarnpkg.com/@webcomponents/webcomponentsjs/-/webcomponentsjs-1.0.22.tgz#a9fed9f346d81dab738b0c3e04614ee6303a24b6"
