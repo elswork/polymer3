@@ -1,4 +1,4 @@
-FROM node:slim
+FROM node:17.4-slim
 
 LABEL mantainer="Eloy Lopez <elswork@gmail.com>"
 
